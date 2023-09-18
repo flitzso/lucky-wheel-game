@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- toDegrees vc regula aonde a roleta vai para atraves do numero -->
+
+    <rotate
+        android:fromDegrees="0"
+        android:toDegrees="10445"
+        android:pivotX="311"
+        android:pivotY="311"
+        android:duration="6000"
+        />
+
+</set>
